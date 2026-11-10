@@ -2,7 +2,7 @@
 
 ### I'm Rocio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocio-diaz95)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdiaz15@twu.edu)
 [![Location](https://img.shields.io/badge/Location-Denton,%20TX-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -66,4 +66,4 @@
 
 ---
 
-📫 **How to reach me:** [rdiaz15@twu.edu](mailto:rdiaz15@twu.edu) | [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
+📫 **How to reach me:** [rdiaz15@twu.edu](mailto:rdiaz15@twu.edu) | [LinkedIn](https://www.linkedin.com/in/rocio-diaz95)
