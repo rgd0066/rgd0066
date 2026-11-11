@@ -10,7 +10,6 @@
 * **B.S. in Electrical Engineering** | University of North Texas 🦅
 * **B.S. in Mathematics** | Texas Woman's University 🦉
 
-🧠 **Focus:** AI-Driven Automation, Applied Mathematics, & Embedded Systems.
 
 ---
 
