@@ -57,12 +57,4 @@
 
 ---
 
-### 🏛️ Leadership & Affiliations
-
-* **President** | Association for Women in Mathematics (AWM) & Kappa Mu Epsilon (KME)
-* **Mathematics Tutor** | TWU Department of Mathematics
-* **Active Member** | SWE • Break Through Tech  • Women in Computing (WIC)
-
----
-
 📫 **How to reach me:** [rdiaz15@twu.edu](mailto:rdiaz15@twu.edu) | [LinkedIn](https://www.linkedin.com/in/rocio-diaz95)
